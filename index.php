@@ -7,7 +7,8 @@
   <body>
     <p>
       <?php
-        $months = array ('janvier', 'février', 'mars', 'avril', 'mai', 'juin', 'juillet', 'aout', 'septembre', 'octobre', 'novembre', 'décembre');
+        $months = array('janvier', 'février', 'mars', 'avril', 'mai', 'juin', 'juillet', 'aout', 'septembre', 'octobre', 'novembre', 'décembre');
+        //Affichage de la troisième ligne du tableau
         echo $months[2];
       ?>
     </p>
